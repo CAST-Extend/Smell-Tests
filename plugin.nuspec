@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.uc.ost</id>
+    <version>1.0.0</version>
+    <title>CAST AIP Smell Tests</title>
+    <authors>User Community</authors>
+    <owners>CAST</owners>
+    <licenseUrl>https://help.castsoftware.com/hc/en-us/articles/212612648-AIP-Extension-License</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This application plugin will be called after the end analysis of all applications.</description>
+    <releaseNotes>Initial public release</releaseNotes>
+  </metadata>
+</package>
